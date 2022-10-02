@@ -6,3 +6,5 @@ The moist_EBM_perturbation_CMIP_output folder contains a moist EBM that is force
   
 * Bonan, D.B., N. Siler, G.H. Roe, and K.C. Armour (submitted): Energetic constraints on the pattern of changes to the hydrological cycle under global warming. Journal of Climate.
 * Bonan, D.B., N. Feldl, N. Siler, I. Eisenman, E. Beer, K.C. Armour, and G.H. Roe (in preparation): Isolating the role of individual climate feedbacks on changes to the regional hydrological cycle. Geophysical Research Letters.
+
+The moist_EBM_mixed_layer folder contains a moist EBM coupled to surface ocean mixed layer with sea ice. A "q-flux" can be applied to simulate various ocean heat transport states by the ocean's overturning circulation.
